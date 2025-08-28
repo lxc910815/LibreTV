@@ -22,6 +22,7 @@ const SITE_CONFIG = {
 
 // API站点配置
 
+
 const API_SITES = {
     dyttzy: {
         api: 'http://caiji.dyttzyapi.com/api.php/provide/vod',
@@ -119,7 +120,7 @@ const API_SITES = {
         api: 'https://www.example.com/api.php/provide/vod',
         name: '空内容测试源',
         adult: true
-    },
+   
     }
 };
 
